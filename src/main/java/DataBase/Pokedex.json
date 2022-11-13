@@ -1,0 +1,21 @@
+[{
+  "_id": 7,
+  "name": "Squirtle",
+  "tipo": "Agua",
+  "habilidad": "Rompemoldes"
+},{
+  "_id": 10,
+  "name": "Caterpie",
+  "tipo": "Bicho",
+  "habilidad": "Polvo Escudo"
+},{
+  "_id": 1,
+  "name": "Bulbasaur",
+  "tipo": "Planta",
+  "habilidad": "Espesura"
+},{
+  "_id": 2,
+  "name": "Ivysaur",
+  "tipo": "Planta",
+  "habilidad": "Espesura"
+}]
